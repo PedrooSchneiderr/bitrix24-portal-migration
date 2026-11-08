@@ -1,0 +1,6 @@
+.env
+crosswalk*.json
+crosswalk*.json.tmp
+data/
+*.csv
+__pycache__/
